@@ -45,12 +45,12 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 
 ### 📊 Libraries & Frameworks  
 <p align="left">
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=black" height="80"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" height="240"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" height="240"/>
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=black" height="240"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white" height="240"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="240"/>
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white" height="240"/>
 </p>
 
 
