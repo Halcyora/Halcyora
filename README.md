@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rupak Banerjee  
 
 🎓 **Senior Undergraduate @ IIT Gandhinagar**  
-🔧 **Dual Major:** Mechanical Engineering (ME) & Artificial Intelligence (AI)  
+🔧 **Dual Major B.Tech:** Mechanical Engineering (ME) & Artificial Intelligence (AI)  
 📧 **Email:** rupak.banerjee@iitgn.ac.in | 📱 +91 9007669974  
 🌐 [LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/your-username) • [Portfolio](https://your-portfolio-link.com)  
 
@@ -17,7 +17,7 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 ## 💼 Internships & Research  
 - **JSW (Summer ’25)** – Optimized TLC’s TAT & automated logistics (50% efficiency gain).  
 - **Maker Bhavan Foundation – Invention Factory ’24** – Secured **provisional patent** | 4th Place | ₹25k honorarium.  
-- **WorldQuant Brain (Quant Consultant)** – Built 50+ alphas, ranked **12th globally**.  
+- **WorldQuant Brain (Quant Consultant)** – Built 50+ alphas, ranked **12th**.  
 
 ---
 
@@ -44,12 +44,7 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 ![MATLAB](https://img.shields.io/badge/-MATLAB-FF7043?logo=mathworks&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![ANSYS](https://img.shields.io/badge/-ANSYS-FFB71B?logo=ansys&logoColor=black)  ![Inventor](https://img.shields.io/badge/-AutoDesk%20Inventor-EF6C00?logo=autodesk&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)  ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?logo=microsoft-office&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
 
 ### 📊 Libraries & Frameworks  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=black)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=black)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)  ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
 
 ### ⚙️ Mechanical & Prototyping  
 - CNC | Casting | Welding | Carpentry | Laser Art | 3D Printing (Ultimaker) | Power Tools  
@@ -76,11 +71,11 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 
 ## 📊 GitHub Stats
 
-![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halcyora&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Halcyora&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Halcyora&theme=tokyonight)
 
 
 <!--
