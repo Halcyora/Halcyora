@@ -53,6 +53,16 @@ I thrive in roles that blend **technology, business, and problem-solving**.
   <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white" height="240"/>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white" height="50"/>
+</p>
+
+
 
 ### ⚙️ Mechanical & Prototyping  
 - CNC | Casting | Welding | Carpentry | Laser Art | 3D Printing (Ultimaker) | Power Tools  
