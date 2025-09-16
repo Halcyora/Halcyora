@@ -38,21 +38,30 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 ## 🛠️ Tech Stack & Skills  
 
 ### 💻 Programming & Development  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
-
-### 🛠️ Tools & Platforms  
-![MATLAB](https://img.shields.io/badge/-MATLAB-FF7043?logo=mathworks&logoColor=white)  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![ANSYS](https://img.shields.io/badge/-ANSYS-FFB71B?logo=ansys&logoColor=black)  ![Inventor](https://img.shields.io/badge/-AutoDesk%20Inventor-EF6C00?logo=autodesk&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)  ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?logo=microsoft-office&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
-
-### 📊 Libraries & Frameworks  
 <p align="left">
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" height="240"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" height="240"/>
-  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=black" height="240"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white" height="240"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="240"/>
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white" height="240"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" height="50"/>
 </p>
 
+### 🛠️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/-MATLAB-FF7043?logo=mathworks&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-ANSYS-FFB71B?logo=ansys&logoColor=black" height="50"/>
+  <img src="https://img.shields.io/badge/-AutoDesk%20Inventor-EF6C00?logo=autodesk&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-MS%20Office-D83B01?logo=microsoft-office&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" height="50"/>
+</p>
+### 📊 Libraries & Frameworks  
 <p align="left">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" height="50"/>
