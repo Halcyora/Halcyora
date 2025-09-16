@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rupak Banerjee  
+## 👋 Hi, I'm Rupak Banerjee  
 
 🎓 **Senior Undergraduate @ IIT Gandhinagar**  
 🔧 **Dual Major B.Tech:** Mechanical Engineering (ME) & Artificial Intelligence (AI)  
@@ -7,37 +7,37 @@
 
 ---
 
-## 🚀 About Me  
+### 🚀 About Me  
 I am a passionate **Mechanical + AI dual major** undergraduate who loves building impactful solutions at the intersection of **engineering, data, and innovation**.  
 My experiences span across **quantitative research, product development, robotics, entrepreneurship, and consulting**.  
 I thrive in roles that blend **technology, business, and problem-solving**.  
 
 ---
 
-## 💼 Internships & Research  
+### 💼 Internships & Research  
 - **JSW (Summer ’25)** – Optimized TLC’s TAT & automated logistics (50% efficiency gain).  
 - **Maker Bhavan Foundation – Invention Factory ’24** – Secured **provisional patent** | 4th Place | ₹25k honorarium.  
 - **WorldQuant Brain (Quant Consultant)** – Built 50+ alphas, ranked **12th**.  
 
 ---
 
-## 📂 Projects  
+### 📂 Projects  
 🔹 **Data Narratives** – Python (NumPy, Pandas, SciPy, Matplotlib) – US Professors, Tennis, Institutional analytics.  
 🔹 **Robotic Car** – MATLAB + Arduino (Obstacle Avoidance, Bluetooth, Voice Control).  
 🔹 **Game Development (C/C++)** – Algorithms for Game of Sim, Rubik’s Cube Solver, Up-it-Up Game.  
 
 ---
 
-## 🏆 Leadership & PORs  
+### 🏆 Leadership & PORs  
 - **Industry Relations & Projects Secretary, IITGN** – Building industry-academia collaborations.  
 - **Overall Coordinator, E-Cell IITGN** – Led 110+ members; launched **E-Summit** after 6 years.  
 - **Sr. PR Executive** – Secured **₹1M+ sponsorships** for Inter-IIT Sports Meet & Blithchron.  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+### 🛠️ Tech Stack & Skills  
 
-### 💻 Programming & Development  
+#### 💻 Programming & Development  
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" height="50"/>
@@ -49,7 +49,7 @@ I thrive in roles that blend **technology, business, and problem-solving**.
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" height="50"/>
 </p>
 
-### 🛠️ Tools & Platforms  
+#### 🛠️ Tools & Platforms  
 <p align="left">
   <img src="https://img.shields.io/badge/-MATLAB-FF7043?logo=mathworks&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" height="50"/>
@@ -73,12 +73,12 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 
 
 
-### ⚙️ Mechanical & Prototyping  
+#### ⚙️ Mechanical & Prototyping  
 - CNC | Casting | Welding | Carpentry | Laser Art | 3D Printing (Ultimaker) | Power Tools  
 
 ---
 
-## 🎖️ Achievements  
+### 🎖️ Achievements  
 🏅 AIR 9 (ICSE Class X) – Felicitated by Chief Minister of West Bengal.  
 🏅 **2 Guinness World Records Holder.**  
 🏅 **Reliance Foundation Scholar (₹2L)**, **Farmson Scholar (₹40k)**, **Foruppo Fellow**.  
@@ -86,7 +86,7 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 
 ---
 
-## 🌱 Beyond Academics  
+### 🌱 Beyond Academics  
 ♟️ Chess | 🏏 Cricket | 🏓 Table Tennis | 🏸 Badminton | ⚽ Football | 🏃 Athletics  
 🤝 Volunteer at **Ignite G20, Convocation, Amalthea, Mess Council Ops**  
 
@@ -98,11 +98,7 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 
 ## 📊 GitHub Stats
 
-![Rupak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halcyora&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Halcyora&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Halcyora&theme=tokyonight)
 
 
 
