@@ -3,7 +3,7 @@
 🎓 **Senior Undergraduate @ IIT Gandhinagar**  
 🔧 **Dual Major B.Tech:** Mechanical Engineering (ME) & Artificial Intelligence (AI)  
 📧 **Email:** rupak.banerjee@iitgn.ac.in | 📱 +91 9007669974  
-🌐 [LinkedIn](https://linkedin.com/in/your-link) • [GitHub](https://github.com/your-username) • [Portfolio](https://your-portfolio-link.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/rupakbanerjee01) • [GitHub](https://github.com/Halcyora) • [Portfolio](https://roopvortex.github.io/portfolio/)  
 
 ---
 
@@ -61,7 +61,8 @@ I thrive in roles that blend **technology, business, and problem-solving**.
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" height="50"/>
 </p>
-### 📊 Libraries & Frameworks  
+
+#### 📊 Libraries & Frameworks  
 <p align="left">
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" height="50"/>
