@@ -14,27 +14,6 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 
 ---
 
-### 💼 Internships & Research  
-- **JSW (Summer ’25)** – Optimized TLC’s TAT & automated logistics (50% efficiency gain).  
-- **Maker Bhavan Foundation – Invention Factory ’24** – Secured **provisional patent** | 4th Place | ₹25k honorarium.  
-- **WorldQuant Brain (Quant Consultant)** – Built 50+ alphas, ranked **12th**.  
-
----
-
-### 📂 Projects  
-🔹 **Data Narratives** – Python (NumPy, Pandas, SciPy, Matplotlib) – US Professors, Tennis, Institutional analytics.  
-🔹 **Robotic Car** – MATLAB + Arduino (Obstacle Avoidance, Bluetooth, Voice Control).  
-🔹 **Game Development (C/C++)** – Algorithms for Game of Sim, Rubik’s Cube Solver, Up-it-Up Game.  
-
----
-
-### 🏆 Leadership & PORs  
-- **Industry Relations & Projects Secretary, IITGN** – Building industry-academia collaborations.  
-- **Overall Coordinator, E-Cell IITGN** – Led 110+ members; launched **E-Summit** after 6 years.  
-- **Sr. PR Executive** – Secured **₹1M+ sponsorships** for Inter-IIT Sports Meet & Blithchron.  
-
----
-
 ### 🛠️ Tech Stack & Skills  
 
 #### 💻 Programming & Development  
@@ -76,6 +55,27 @@ I thrive in roles that blend **technology, business, and problem-solving**.
 
 #### ⚙️ Mechanical & Prototyping  
 - CNC | Casting | Welding | Carpentry | Laser Art | 3D Printing (Ultimaker) | Power Tools  
+
+---
+
+### 💼 Internships & Research  
+- **JSW (Summer ’25)** – Optimized TLC’s TAT & automated logistics (50% efficiency gain).  
+- **Maker Bhavan Foundation – Invention Factory ’24** – Secured **provisional patent** | 4th Place | ₹25k honorarium.  
+- **WorldQuant Brain (Quant Consultant)** – Built 50+ alphas, ranked **12th**.  
+
+---
+
+### 📂 Projects  
+🔹 **Data Narratives** – Python (NumPy, Pandas, SciPy, Matplotlib) – US Professors, Tennis, Institutional analytics.  
+🔹 **Robotic Car** – MATLAB + Arduino (Obstacle Avoidance, Bluetooth, Voice Control).  
+🔹 **Game Development (C/C++)** – Algorithms for Game of Sim, Rubik’s Cube Solver, Up-it-Up Game.  
+
+---
+
+### 🏆 Leadership & PORs  
+- **Industry Relations & Projects Secretary, IITGN** – Building industry-academia collaborations.  
+- **Overall Coordinator, E-Cell IITGN** – Led 110+ members; launched **E-Summit** after 6 years.  
+- **Sr. PR Executive** – Secured **₹1M+ sponsorships** for Inter-IIT Sports Meet & Blithchron.  
 
 ---
 
