@@ -2,7 +2,7 @@
 
 🎓 **Senior Undergraduate @ IIT Gandhinagar**  
 🔧 **Dual Major B.Tech:** Mechanical Engineering (ME) & Artificial Intelligence (AI)  
-📧 **Email:** rupak.banerjee@iitgn.ac.in | 📱 +91 9007669974  
+📧 **Email:** rupak.banerjee@iitgn.ac.in
 🌐 [LinkedIn](https://www.linkedin.com/in/rupakbanerjee01) • [GitHub](https://github.com/Halcyora) • [Portfolio](https://roopvortex.github.io/portfolio/)  
 
 ---
