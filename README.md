@@ -69,7 +69,7 @@ Currently, I'm an **AI Engineer at Ness Digital**, and I thrive in roles that de
 
 | Degree | Specialization | Institute | Year | CGPA |
 |--------|-----------------|-----------|------|------|
-| **B.Tech.** | AI & ME | IIT Gandhinagar | 2022-2026 | **7.40** |
+| **B.Tech.** | AI & ME | IIT Gandhinagar | 2022-2026 |  |
 | **Class XII** | Physics, Chemistry, Maths | Indira Gandhi Memorial School, Kolkata | 2020-2021 | **97.4%** |
 | **Class X** | ICSE | St. Stephens' School, Kolkata | 2018-2019 | **98.0%** |
 
@@ -264,9 +264,13 @@ Currently, I'm an **AI Engineer at Ness Digital**, and I thrive in roles that de
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Profile
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Halcyora&layout=compact&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/Halcyora" target="_blank">
+    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Halcyora-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
 
 ---
 
