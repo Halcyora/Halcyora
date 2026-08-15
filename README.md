@@ -1,288 +1,129 @@
 ## 👋 Hi, I'm Rupak Banerjee  
 
-🎓 **Final Year Undergraduate @ IIT Gandhinagar**  
-🔧 **Dual Major B.Tech:** Mechanical Engineering (ME) & Artificial Intelligence (AI)  
-📧 **Email:** rupak.banerjee@iitgn.ac.in | **Phone:** +91 9007669974  
-🌐 [LinkedIn](https://www.linkedin.com/in/rupakbanerjee01) • [GitHub](https://github.com/Halcyora) • [Portfolio](https://roopvortex.github.io/portfolio/) • [HackerRank](https://www.hackerrank.com)  
+🎓 **Final Year Dual Major @ IIT Gandhinagar** (AI & Mechanical Engineering)  
+📧 [Email](mailto:rupak.banerjee@iitgn.ac.in) | [LinkedIn](https://www.linkedin.com/in/rupakbanerjee01) | [Portfolio](https://roopvortex.github.io/portfolio/)  
+
+Building impactful solutions at the intersection of **AI, Robotics, and Innovation**. Currently **AI Engineer @ Ness Digital**.
 
 ---
 
-### 🚀 About Me  
+### 🚀 Quick Highlights
 
-I am a passionate **Mechanical + AI dual major** engineer at IIT Gandhinagar, building impactful solutions at the intersection of **engineering, data science, and innovation**. 
-
-My journey spans **quantitative research (WorldQuant), industrial optimization (JSW), entrepreneurship (E-Cell leadership), and product development**. I combine rigorous analytical thinking with hands-on prototyping and business acumen.
-
-Currently, I'm an **AI Engineer at Ness Digital**, and I thrive in roles that demand **technical depth, strategic thinking, and impact-driven execution**.
+- 🏆 **Ranked 12th globally** on WorldQuant Brain (50+ alphas built)
+- 📦 **50% efficiency gain** at JSW Group (16-hour optimization vs 24-hour baseline)
+- 🛹 **Provisional Patent** secured | 4th place @ Invention Factory '24
+- 💰 **₹1M+ in sponsorships** secured as PR lead
+- 🎯 99% precision/recall achieved on retinal pathology classification
 
 ---
 
-### 🛠️ Tech Stack & Skills  
+### 🛠️ Tech Stack
 
-#### 💻 Programming Languages  
-**Proficient:** Python, HTML, SQL  
-**Intermediate:** Java, C++, Tailwind CSS, JavaScript, Flutter, Dart  
-
-#### 🧠 AI/ML & Data Science  
+#### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 🛠️ Engineering & Development Tools  
+#### 🧠 AI/ML & Data Science
 <p align="left">
-  <img src="https://img.shields.io/badge/-MATLAB-FF7043?logo=mathworks&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-ANSYS-FFB71B?logo=ansys&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/-AutoDesk-EF6C00?logo=autodesk&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-ADAMS-0066CC?logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2CC8F?logo=power-bi&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-#### 🏗️ Web Development & Frontend  
+#### ⚙️ Engineering & Hardware
 <p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" height="50"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF7043?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoDesk-EF6C00?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
-#### ⚙️ Mechanical & Prototyping  
-- **Manufacturing:** CNC | Casting | Welding | Carpentry | Laser Art (MDF, Ti-alloy) | Power Tools  
-- **Design & CAD:** AutoDesk Inventor | ANSYS | ADAMS | 3D Printing (Ultimaker)  
-- **Other:** Servo Motors, Actuators, Microcontroller Programming (ESP32)  
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2CC8F?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>  
 
 ---
 
-### 🎓 Academic Profile  
+### 💼 Experience
 
-| Degree | Specialization | Institute | Year | CGPA |
-|--------|-----------------|-----------|------|------|
-| **B.Tech.** | AI & ME | IIT Gandhinagar | 2022-2026 |  |
-| **Class XII** | Physics, Chemistry, Maths | Indira Gandhi Memorial School, Kolkata | 2020-2021 | **97.4%** |
-| **Class X** | ICSE | St. Stephens' School, Kolkata | 2018-2019 | **98.0%** |
-
----
-
-### 💼 Professional Experience & Internships  
-
-#### **AI Engineer** | Ness Digital Engineering  
-*July 2026 - Present*  
-- Building cutting-edge AI-driven solutions in the enterprise space  
-
-#### **Summer Internship Program** | JSW Steel (Iron Zone)  
-*May 2025 - July 2025*  
-- **Mentors:** Mr. Sanjay Kumar (VP, Iron Zone), Mr. Binayak Prasad (AVP, BF), Mr. Praveen Kumar (GM, BF)  
-- **Achievements:**
-  - 🚀 **Optimized TLC's TAT** by resolving track routing conflicts via innovative connection methodology  
-  - 📦 **50% efficiency gain** in hot metal logistics: Reduced 24-hour output cycle to 16 hours through automation  
-  - 🎯 Enhanced supply chain workflow and eliminated operational congestion delays  
-
-#### **Quantitative Research Consultant** | WorldQuant Brain  
-*April 2023 - Present*  
-- **Advisor:** Mr. Ishan Shandilya, Sr Researcher  
-- **Achievements:**
-  - 🏆 **Ranked 12th globally** among thousands of contributors  
-  - 📊 Crafted **50+ alpha algorithms** for quantitative analysis of stock and options markets  
-  - 💡 Conducted rigorous backtesting and performance evaluation of trading strategies  
-  - 📈 Built deep expertise in market dynamics, risk assessment, and algorithmic trading  
-
-#### **Invention Factory '24 Intern** | Maker Bhavan Foundation  
-*May 2024 - June 2024*  
-- **Mentors:** Prof. Madhu Vadhu & Prof. Tarun Agarwal (IIT Gandhinagar); Prof. Alan Wolf & Prof. Eric Lima (Cooper Union)  
-- **Achievements:**
-  - 🎯 **Handpicked as one of 60 finalists** across India  
-  - 🏅 **Secured provisional patent** for innovative product  
-  - 🥉 **Finished 4th** overall with **₹25,000 honorarium**  
-  - 🛹 **Invented Smart Skateboard Trainer** featuring:  
-    - Microcontroller: ESP32 with inbuilt sensors and data logging  
-    - Adaptive actuators and intelligent modules for personalized training  
-    - Real-time feedback system with performance metrics  
-    - Full-scale prototype development and testing  
+<img height="40" src="https://media.licdn.com/dms/image/v2/C560BAQHaAFLlIQm97Q/company-logo_200_200/company-logo_200_200/0/1630703144128?e=1735689600&v=beta&t=8JqRLhUlNpWjxVdw0g7JsH9pKlF8jH8ZQQPxVqB8s_I" /> **AI Engineer** (Jul 2026 - Present)  
+<img height="40" src="https://media.licdn.com/dms/image/v2/C560BAQGJuE3CEfJlHQ/company-logo_200_200/company-logo_200_200/0/1630639763437?e=1735689600&v=beta&t=cxNfGP8-s8BFGHZMPmgzUqLmXlzB0KNh9tCvvGZZPEw" /> **Quant Researcher** (Apr 2023 - Present) — Ranked 12th, built 50+ alphas  
+<img height="40" src="https://media.licdn.com/dms/image/v2/C510BAQEz6Gv9gQvJZg/company-logo_200_200/company-logo_200_200/0/1631362909614?e=1735689600&v=beta&t=U2l91V7G6RLyNkl0_AEFxs6GZUYPdSL2q6qH-Jvfvgw" /> **Summer Intern** (May 2025 - Jul 2025) — 50% logistics efficiency improvement  
+<img height="40" src="https://makerbhavan.org/wp-content/uploads/2021/06/MBF-Logo.png" /> **Innovation Intern** (May 2024 - Jun 2024) — Provisional patent, 4th place  
 
 ---
 
-### 📂 Featured Projects  
+### 📂 Featured Projects
 
-#### **Physics-Based Classification of Retinal Pathologies**  
-*January 2026 - Present*  
-- **Mentor:** Prof. Prabhat Munshi, IIT Kanpur  
-- **Tech Stack:** Python, Random Forest, Tomographic Signal Processing, OCT Imaging  
-- **Achievements:**
-  - 🎯 Engineered deterministic **Random Forest classifier** for OCT scan analysis  
-  - 📊 Achieved **100% precision/recall** for healthy retinal triage classification  
-  - 🧠 Attained **71% overall accuracy** across full pathology spectrum  
-  - 🔬 Extracted key discriminative features: **KT-1 (tissue density)** and **NMSID Hurst Coefficient**  
-  - 💡 Strategically discarded Shannon entropy to prevent collinearity and overfitting  
-  - 📖 Comprehensive medical imaging and signal processing methodology  
+**Physics-Based Classification of Retinal Pathologies** (Jan 2026 - Present)  
+Random Forest classifier for OCT scans | 100% precision/recall on healthy triage | 71% overall accuracy | Extracted KT-1 tissue density & NMSID Hurst features
 
-#### **Data Narratives: US Professors, Institutional Management & Tennis Analytics**  
-*January 2023 - April 2023*  
-- **Mentor:** Prof. Shanmuga Ramanathan, IIT Gandhinagar  
-- **Tech Stack:** Python (NumPy, Pandas, SciPy, Matplotlib)  
-- **Achievements:**
-  - 📊 Performed comprehensive statistical analysis on large, complex datasets  
-  - 📈 Applied advanced probability functions and distributions  
-  - 🎾 Analyzed tennis championship data with predictive modeling  
-  - 💡 Derived and visualized key institutional and social insights  
-  - 🔍 Created compelling data narratives for stakeholder communication  
+**Robotic Car with Autonomous Control** (Jan 2023 - Apr 2023)  
+MATLAB + Arduino | Obstacle avoidance (ultrasonic sensors) | Bluetooth control | Voice command recognition
 
-#### **Robotic Car with Advanced Autonomous Features**  
-*January 2023 - April 2023*  
-- **Mentor:** Prof. Arup Chakraborty, IIT Gandhinagar  
-- **Tech Stack:** MATLAB (Servo, AFMotor), Arduino, Hardware Integration  
-- **Achievements:**
-  - 🤖 Engineered autonomous **obstacle avoidance system** using ultrasonic sensors  
-  - 📱 Implemented wireless **Bluetooth remote control** interface  
-  - 🎤 Integrated **voice command** recognition and speech sensitivity modules  
-  - ⚙️ Assembled complete integrated hardware: Arduino Uno, ultrasonic sensors, Bluetooth HC-05, motor drivers, power management  
-  - 🔧 End-to-end prototyping from circuit design to firmware programming  
+**Game Development: Algorithms & Data Structures** (Aug 2023 - Dec 2023)  
+C++ | Game of Sim, Rubik's Cube Solver, Up-it-Up Game | Optimal algorithms handling all edge cases
 
-#### **Game Development: Data Structures & Algorithms**  
-*August 2023 - December 2023*  
-- **Mentor:** Prof. Balagopal Komarath, IIT Gandhinagar  
-- **Tech Stack:** C, C++  
-- **Achievements:**
-  - 🎮 Built robust **Game of Sim** solver with optimal strategy algorithms  
-  - 🧩 Designed efficient **Rubik's Cube Solver** with minimal move sequences  
-  - 🎯 Developed **Up-it-Up Game** engine with comprehensive edge case handling  
-  - 💪 Implemented complex algorithms addressing all corner cases and boundary conditions  
-  - 🏆 Achieved optimal solutions with rigorous testing and validation  
+**Data Narratives: US Professors & Tennis Analytics** (Jan 2023 - Apr 2023)  
+Python (NumPy, Pandas, SciPy) | Statistical analysis | Predictive modeling | Data visualization  
 
 ---
 
-### 🏆 Leadership & Positions of Responsibility  
+### 🏆 Leadership
 
-#### **Industry Relations & Projects Secretary (IR&P)** | Students' Council, IITGN  
-*April 2025 - Present*  
-- **Elected by entire IITGN community** to drive strategic institutional impact  
-- **Strategic Mandate:** Building impactful industry-academia collaborations  
-- **Portfolio & Initiatives:**  
-  - 🤝 Consultancy & Product Management partnerships  
-  - 🏭 Industrial & Institute collaborative projects  
-  - 📜 Bureau of Indian Standards (BIS) liaison and compliance  
-  - 📋 Public Policy, Economics, and regulatory frameworks  
-  - 🎨 Design Innovation, UI/UX, and marketing strategy  
+**Industry Relations & Projects Secretary** | IITGN Students' Council (Apr 2025 - Present)  
+Building industry-academia collaborations | Consultancy, Product Management, Public Policy
 
-#### **E-Cell Overall Coordinator** | EII (Entrepreneurship Initiative IITGN)  
-*September 2023 - April 2025*  
-- **Led cross-functional team of 110+ members** across entrepreneurship initiatives  
-- **Transformational Achievements:**
-  - 🚀 **Pioneered E-Summit** — Resurrected flagship entrepreneurship event after 6-year hiatus  
-  - 🎪 Orchestrated grand expo with startup competitions and industry networking  
-  - 🎓 **iDE (Innovation Driven Entrepreneurship) Program:**  
-    - Selected as one of **13 finalists from IITGN** for prestigious bootcamp  
-    - Received **fully sponsored 6-day Bangalore Startup Bootcamp** experience  
-    - Engaged with industry leaders: SAP Labs, NASSCOM, CISCO, Bosch, Qualcomm  
-  - 🚗 **Hack The Future (Smart Transportation Challenge):**  
-    - Ranked **among 42 finalists across India**  
-    - Ideated Uber-style platform for emergency ambulance services  
-    - Showcased solution at national innovation stage  
-  - 💰 **Finnovate '24 (FinTech Track):**  
-    - Conceptualized **AI-powered chatbot** for financial literacy promotion  
-    - Designed comprehensive **UI/UX website** for financial inclusion  
+**E-Cell Overall Coordinator** | EII (Sep 2023 - Apr 2025)  
+Led 110+ members | Pioneered E-Summit | iDE bootcamp finalist | Hack The Future finalist (42 India-wide) | Finnovate '24 FinTech track
 
-#### **Senior PR Executive** | Inter-IIT Sports Meet'23 & Blithchron  
-*May 2023 - March 2024*  
-- **Sponsorship & Marketing Lead** for premier inter-IIT events  
-- **Outstanding Achievements:**
-  - 📱 Executed comprehensive outreach campaign to **1000+ potential sponsors**  
-  - 🎯 Contacted senior leadership: IAS officers, corporate marketing executives, HR directors  
-  - 💰 Successfully secured **₹1 Million+ (~$12,000 USD)** in sponsorships  
-  - 🏆 Delivered record-breaking funding for sports and cultural events  
+**Senior PR Executive** | Inter-IIT Sports Meet & Blithchron (May 2023 - Mar 2024)  
+Secured ₹1M+ in sponsorships | 1000+ sponsor outreach  
 
 ---
 
-### 🎖️ Academic & Professional Achievements  
+### 🎖️ Achievements
 
-#### **🥇 National & State Level Recognition**  
-- **Class X Excellence:** Achieved **AIR 9 in ICSE Board Examination**  
-- **Chief Minister Felicitation:** Received **Letter of Congratulations** from CM of West Bengal  
-- **Guinness World Records:** Contributing member in **2 GWRs Participation**  
-- **Mathematical Olympiad:** Qualified for **Pre-Regional Mathematics Olympiad (PRMO)**  
-
-#### **💼 Scholarships & Financial Recognition**  
-- **Reliance Foundation Merit Scholarship:** ₹2 lakhs (~$2,400 USD)  
-- **Farmson Scholar Award:** ₹40,000  
-- **Foruppo Fellowship:** Ongoing academic sponsorship  
-- **Outstanding Award in Non-Academics:** Institutional recognition for excellence beyond coursework  
-
-#### **📊 Trading & Finance Competitions**  
-- **National Trading Finalist (Nifty Batch):** ₹30,000 prize pool  
-- **Runners-up:** BITS Trading Competition (prestigious institution)  
-- **Runners-up:** IIM Trading Competition (elite MBA institutes)  
-- **Rank 3:** MCX Zonal Finals Trading Championship — ₹25,000 prize  
-
-#### **🏆 Technical & Innovation Awards**  
-- **Inter-IIT Tech Meet'25:** Qualified for **Finals in Problem Statement: Drone Stability**  
-- **Quantum Computing Certification:** Completed advanced coursework and assessment  
-- **Teaching Assistant Role:** Supported core courses at IITGN with mentoring  
-- **Campus Ambassador:** IITB, Financial Capital Analyst, and other programs  
+🥇 **AIR 9 in ICSE Class X** — Felicitated by CM of West Bengal  
+🏅 **2 Guinness World Records Participation**  
+💼 **Reliance Foundation Scholar** (₹2L) | **Farmson Scholar** (₹40k) | **Foruppo Fellowship**  
+📊 **National Trading Finalist** (Nifty Batch) | **Runners-up @ BITS & IIM** | **Rank 3 MCX Zonal Finals** (₹25k)  
+🏆 **Inter-IIT Tech Meet'25 Finals** (Drone Stability) | **Quantum Computing Certification**  
 
 ---
 
-### ⭐ Volunteer & Community Service  
+### 🎯 Interests & Extracurriculars
 
-- **IITGN Student Guide:** Mentored incoming cohorts through orientation and adjustment  
-- **Ignite G20:** Active volunteer at high-profile international initiative  
-- **IITGN 13th Convocation:** Contributed to historic institutional milestone  
-- **Amalthea (Science Fest):** Volunteer and active participant in science popularization  
-- **Mess Council Operations:** Contributed to student welfare and dining services coordination  
-- **Nyasa (Cultural Fest):** Engaged in cultural promotion and event management  
+**Sports:** ♟️ Chess (Intra-IITGN Runner-up) | 🏏 Cricket | 🏓 Table Tennis | ⚽ Football | 🏃 Athletics  
+**Interests:** 🚀 Innovation & Entrepreneurship | 🤖 Robotics & Automation | 📊 Data Analytics | 💻 Open-Source  
+**Volunteer:** IITGN Student Guide | Ignite G20 | Convocation | Amalthea | Mess Council  
 
 ---
 
-### 🎯 Extracurricular Activities & Interests  
-
-#### 🏆 Sports & Athletics  
-♟️ **Chess** (Intra-IITGN Runner-up) | 🏏 **Cricket** | 🏓 **Table Tennis** | 🏸 **Badminton**  
-⚽ **Football** | 🏃 **Athletics & Track** | 🏀 **Basketball** | 🏐 **Volleyball** | 🧘 **Yoga & Fitness**  
-
-#### 🚀 Professional Interests  
-📚 **Research & Problem-Solving** — Rigorous analytical and empirical approaches  
-🚀 **Innovation & Entrepreneurship** — Building solutions at scale  
-🤖 **Robotics & Automation** — Hardware-software integration  
-📊 **Data Analytics & Visualization** — Extracting actionable insights  
-💻 **Open-Source Contribution** — Community-driven development  
+✨ *"Building at the intersection of AI, Mechanics, and Innovation"*
 
 ---
 
-### 💭 Personal Philosophy  
+### 📞 Let's Connect
 
-✨ *"At the intersection of **AI, Mechanics, and Entrepreneurship** — I strive to **build impactful solutions, solve complex problems, and drive meaningful change**."*
-
----
-
-## 📊 GitHub Profile
-
-<div align="center">
-  <a href="https://github.com/Halcyora" target="_blank">
-    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Halcyora-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
-
----
-
-### 📞 Let's Connect!  
-
-I'm always interested in:
-- 🤝 Collaborative projects at the intersection of AI and mechanical engineering  
-- 💡 Innovation and product development opportunities  
-- 📚 Research collaborations and technical challenges  
-- 🚀 Entrepreneurship and startup initiatives  
-
-**Reach out:** [Email](mailto:rupak.banerjee@iitgn.ac.in) | [LinkedIn](https://www.linkedin.com/in/rupakbanerjee01) | [GitHub](https://github.com/Halcyora) | [Portfolio](https://roopvortex.github.io/portfolio/)
+💡 Open to collaborations, research projects, and innovative challenges  
+📧 [Email](mailto:rupak.banerjee@iitgn.ac.in) | [LinkedIn](https://www.linkedin.com/in/rupakbanerjee01) | [Portfolio](https://roopvortex.github.io/portfolio/)
 
 ---
 
