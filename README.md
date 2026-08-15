@@ -62,10 +62,10 @@ Building impactful solutions at the intersection of **AI, Robotics, and Innovati
 
 ### 💼 Experience
 
-<img height="40" src="https://media.licdn.com/dms/image/v2/C560BAQHaAFLlIQm97Q/company-logo_200_200/company-logo_200_200/0/1630703144128?e=1735689600&v=beta&t=8JqRLhUlNpWjxVdw0g7JsH9pKlF8jH8ZQQPxVqB8s_I" /> **AI Engineer** (Jul 2026 - Present)  
-<img height="40" src="https://media.licdn.com/dms/image/v2/C560BAQGJuE3CEfJlHQ/company-logo_200_200/company-logo_200_200/0/1630639763437?e=1735689600&v=beta&t=cxNfGP8-s8BFGHZMPmgzUqLmXlzB0KNh9tCvvGZZPEw" /> **Quant Researcher** (Apr 2023 - Present) — Ranked 12th, built 50+ alphas  
-<img height="40" src="https://media.licdn.com/dms/image/v2/C510BAQEz6Gv9gQvJZg/company-logo_200_200/company-logo_200_200/0/1631362909614?e=1735689600&v=beta&t=U2l91V7G6RLyNkl0_AEFxs6GZUYPdSL2q6qH-Jvfvgw" /> **Summer Intern** (May 2025 - Jul 2025) — 50% logistics efficiency improvement  
-<img height="40" src="https://makerbhavan.org/wp-content/uploads/2021/06/MBF-Logo.png" /> **Innovation Intern** (May 2024 - Jun 2024) — Provisional patent, 4th place  
+<img height="40" src="https://www.ness.com/wp-content/uploads/2026/01/favicon.png" alt="Ness Digital logo" /> **AI Engineer** (Jul 2026 - Present)  
+<img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBIP9UUlEZtyc90cMd0R3Jo26TIaqVUPmydfL58nBfhUHZFjm-j6CO-U0&s=10" alt="WorldQuant Brain logo" /> **Quant Researcher** (Apr 2023 - Present) — Ranked 12th, built 50+ alphas  
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/JSW_Group_logo.svg/330px-JSW_Group_logo.svg.png" alt="JSW logo" /> **Summer Intern** (May 2025 - Jul 2025) — 50% logistics efficiency improvement  
+<img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf0uU-tp1vh2U_F2L2u41WUDqdo804FnOokH-Yv5-BiNJffl-DeER946s&s=10" alt="Maker Bhavan Foundation logo" /> **Innovation Intern** (May 2024 - Jun 2024) — Provisional patent, 4th place  
 
 ---
 
