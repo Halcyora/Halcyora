@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 
-I am a passionate **Mechanical + AI dual major** engineer at IIT Gandhinagar with a **7.4 CGPA**, building impactful solutions at the intersection of **engineering, data science, and innovation**. 
+I am a passionate **Mechanical + AI dual major** engineer at IIT Gandhinagar, building impactful solutions at the intersection of **engineering, data science, and innovation**. 
 
 My journey spans **quantitative research (WorldQuant), industrial optimization (JSW), entrepreneurship (E-Cell leadership), and product development**. I combine rigorous analytical thinking with hands-on prototyping and business acumen.
 
